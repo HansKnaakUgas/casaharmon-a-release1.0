@@ -1,0 +1,4 @@
+# Configuracion — Modelo 1 (ejemplo)
+umbral_alerta_dbm: -60
+ventana_muestreo_s: 60
+rango_hz: [1, 6000000000]

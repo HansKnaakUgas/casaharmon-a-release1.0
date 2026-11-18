@@ -1,0 +1,11 @@
+LICENCIA CERN-OHL-S-2.0 — REFERENCIA
+================================
+
+Este proyecto aplica la licencia CERN-OHL-S-2.0 a su material correspondiente.
+
+Texto oficial (copiar aqui antes de publicar el repositorio):
+https://ohwr.org/cern_ohl_s_v2.txt
+
+La inclusion de este archivo cumple la funcion de indicar la licencia
+aplicable; el texto completo legal debe tomarse exclusivamente de la
+fuente oficial indicada.

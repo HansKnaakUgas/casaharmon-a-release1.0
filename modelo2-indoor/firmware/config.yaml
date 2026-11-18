@@ -1,0 +1,4 @@
+# Configuracion — Modelo 2 (ejemplo)
+num_nodos: 8
+anc_habilitado: false
+umbral_ruido_db: 45

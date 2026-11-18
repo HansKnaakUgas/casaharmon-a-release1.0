@@ -1,0 +1,5 @@
+# Dependencias Python — Modelo 2
+# Ejemplo minimo; ajustar al hardware final
+# pyserial>=3.5
+# numpy>=1.24
+# sounddevice>=0.4.6

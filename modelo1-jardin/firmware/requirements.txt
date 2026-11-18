@@ -1,0 +1,4 @@
+# Dependencias Python — Modelo 1
+# Ejemplo minimo; ajustar al hardware final
+# pyserial>=3.5
+# numpy>=1.24
