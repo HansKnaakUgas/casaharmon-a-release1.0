@@ -3,6 +3,7 @@
 [![Docs: CC BY-SA 4.0](https://img.shields.io/badge/Documentacion-CC%20BY--SA%204.0-lightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Hardware: CERN-OHL-S 2.0](https://img.shields.io/badge/Hardware-CERN--OHL--S%202.0-blue.svg)](https://ohwr.org/cern_ohl_s_v2.txt)
 [![Software: GPL-3.0](https://img.shields.io/badge/Software-GPL--3.0-red.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
+<img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/4e0211ba-e395-4bbf-a18b-32b8039ce40d" />
 
 > Sistema pasivo automatizado de monitoreo electromagnetico y gestion de
 > ruido audible para hogares familiares.
